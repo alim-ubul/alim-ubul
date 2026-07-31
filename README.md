@@ -46,9 +46,9 @@ Python + Playwright + SQLite + Flask + ECharts，多平台商品价格/活动实
 
 ---
 
-### 3. 别松手 (Hold Game) — 抖音小游戏
+### 3. 泡泡爆爆乐 (bubble-pop-game) — 抖音小游戏
 
-按住蓄力 → 松手释放 → 比拼偏离目标值。Canvas 原生 JS + tt.* API，含连击加分与本地最高分存档，目标上线广告变现。
+纯 JS + Canvas 2D IAA解压点击小游戏，目标上线广告变现。
 
 ---
 
@@ -64,7 +64,7 @@ Python + Playwright + SQLite + Flask + ECharts，多平台商品价格/活动实
 ## 近期在做
 
 - 迭代 JobHunter Agent：ATS 模拟、简历生成、文字版模拟面试
-- 抖音小游戏「bubble-pop-game」上线 + 广告变现
+- AI 漫剧全流程一站式创作平台(Manju  Platform v3)
 - 足球海报生成器：精彩瞬间视频自动剪辑
 
 ---
