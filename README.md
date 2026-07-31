@@ -1,5 +1,7 @@
 # Alim Ubul
 
+## 👋 Hi, I'm Alim Ubul
+
 **Software Implementation Engineer · Fullstack Developer · 独立游戏开发者 · AI Application Builder**
 
 我从独立游戏开发入行，习惯把想法一路做到能跑、能上线的完整闭环。小程序、小游戏、AI 智能体，都能独立从 0 做到上线。现在专注用 AI 做出真正能落地、能被使用的产品。
