@@ -64,7 +64,7 @@ Python + Playwright + SQLite + Flask + ECharts，多平台商品价格/活动实
 ## 近期在做
 
 - 迭代 JobHunter Agent：ATS 模拟、简历生成、文字版模拟面试
-- 抖音小游戏「别松手」上线 + 广告变现
+- 抖音小游戏「bubble-pop-game」上线 + 广告变现
 - 足球海报生成器：精彩瞬间视频自动剪辑
 
 ---
