@@ -73,7 +73,7 @@ Python + Playwright + SQLite + Flask + ECharts，多平台商品价格/活动实
 
 📧 **1774966459@qq.com** · **19852189878@163.com**
 
-<img width="631" height="641" alt="微信图片_2026-08-01_011056_317" src="https://github.com/user-attachments/assets/eaab3894-f532-4309-aa74-bf26518afd65" />
+<img width="300" height="300" alt="微信图片_2026-08-01_011056_317" src="https://github.com/user-attachments/assets/eaab3894-f532-4309-aa74-bf26518afd65" />
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alim-ubul&show_icons=true&theme=tokyonight)](https://github.com/alim-ubul)
